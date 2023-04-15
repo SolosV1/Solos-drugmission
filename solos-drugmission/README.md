@@ -1,3 +1,5 @@
+# Simple Mission Script for players to get access to an illegal shop that you can configure with ingredients, black market items, or any thing else you want! 
+
 https://i.imgur.com/hmYxCK1.jpeg 
 
 # Add the following to /qb-core > /shared > items.lua
