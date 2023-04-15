@@ -7,7 +7,7 @@
 
 # Add the following to /qb-core > /shared > items.lua
 
-	['mission_breifcase'] 			 = {['name'] = 'mission_breifcase', 			['label'] = 'Brief Case', 				['weight'] = 200, 	    ['type'] = 'item', 		['image'] = 'mission_breifcase.png', 	['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Do I even bother looking inside?'},
+	['mission_briefcase'] 			 = {['name'] = 'mission_briefcase', 			['label'] = 'Brief Case', 				['weight'] = 200, 	    ['type'] = 'item', 		['image'] = 'mission_briefcase.png', 	['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Do I even bother looking inside?'},
 
 # Add Image from /assets to inventory images 
 
