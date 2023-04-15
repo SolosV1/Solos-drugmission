@@ -1,9 +1,9 @@
 # Simple Mission Script for players to get access to an illegal shop!
 - Configure Locations, Items, Prices, Amounts, and more. 
 
-https://i.imgur.com/hmYxCK1.jpeg 
-https://i.imgur.com/nOtZ8wA.jpeg
-https://i.imgur.com/wJghfKc.jpeg
+- https://i.imgur.com/hmYxCK1.jpeg 
+- https://i.imgur.com/nOtZ8wA.jpeg
+- https://i.imgur.com/wJghfKc.jpeg
 
 # Add the following to /qb-core > /shared > items.lua
 
